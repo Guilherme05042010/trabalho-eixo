@@ -5,4 +5,11 @@ body{
     background-position: center center;
 }
 
-
+main{
+    background-color: white;
+    width: 50%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+}
