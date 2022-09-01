@@ -5,3 +5,7 @@ body{
     background-position: center center;
 }
 
+main{
+    whidth: 400px;
+    padding: 10px
+}
