@@ -1,8 +1,11 @@
 body{
-    background-image: url(imgg.png);
+    heigth: 100hv;
+    background-image: url(imggg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    background-color: black;
+    background-attachment: fixed;
 }
 
 main{
