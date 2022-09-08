@@ -1,0 +1,221 @@
+body{
+    background-image: url(img/layout.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+main{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#mais{display: none}
+
+#mais2{display: none}
+
+#mais3{display: none}
+
+#mais4{display: none}
+
+#mais5{display: none}
+
+
+
+#mais6{display: none}
+
+#mais7{display: none}
+
+#mais8{display: none}
+
+#mais9{display: none}
+
+ 
+
+#mais10{display: none}
+
+#mais11{display: none}
+
+#mais12{display: none}
+
+#mais13{display: none}
+
+
+
+#mais14{display: none}
+
+
+
+
+button{
+    background-image: url(img/bagui.png);
+    background-attachment: local;
+    background-size: 100% 100%;
+    background-color: whitesmoke;
+    border-color: black;
+    border: 1px;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    
+}
+
+b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+ 
+
+
+
+main{
+    background-color: white;
+    width: 65%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+
+
+div{
+    background-color: white;
+    width: 53%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+
+
+#imgbuzz {
+	position: absolute; 
+	left: 2%;
+	top: 21%;
+	}
+
+
+
+
+#minions {
+    position: absolute; 
+    left: 75%;
+    top: 75%;
+    }
+
+
+
+
+#mad{
+    background-image: url(img/toystory.jpg);
+    background-position: center center;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: local;
+    
+}
+
+
+
+#i{
+    background-image: url(img/minions.jpg);
+    background-position: center center;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: local;
+}
+
+
+
+
+
+#logo{
+   
+
+    position: absolute; 
+    left: 0%;
+    top: 0%;
+}
+
+
+
+
+#SESI{
+   
+
+    position: absolute; 
+    left: 74%;
+    top: 2%;
+}
+
+
+
+
+
+#img1{
+    text-align: center;
+    
+    background-color: white;
+    width: 53%;
+    height: 70%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+
+
+#img2{
+    
+    
+    background-color: white;
+    width: 53%;
+    height: 70%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+
+
+#img4{
+    
+    
+    background-color: white;
+    width: 53%;
+    height: 70%;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
+
