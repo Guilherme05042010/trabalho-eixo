@@ -72,7 +72,6 @@ b{
 
 
 main{
-    background-image: cover;
     background-color: white;
     width: 65%;
     padding: 10px;
@@ -84,7 +83,7 @@ main{
 
 
 div{
-    background-image: cover;
+    background-image: absolute;
     background-color: white;
     width: 53%;
     padding: 10px;
