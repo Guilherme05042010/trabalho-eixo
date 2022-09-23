@@ -119,9 +119,9 @@ div{
 #mad{
     background-size: absolute;
     background-image: url(img/toystory.jpg);
-    background-position: center center;
+    background-position: absolute;
     
-    background-repeat: repeat; 
+    background-repeat: no-repeat; 
 }
 
 
@@ -129,9 +129,9 @@ div{
 #i{
     background-size: absolute;
     background-image: url(img/minions.jpg);
-    background-position: center center;
+    background-position: absolute;
     
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
 
 
