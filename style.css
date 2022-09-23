@@ -120,7 +120,7 @@ div{
     background-size: absolute;
     background-image: url(img/toystory.jpg);
     background-position: center center;
-    background-size: auto;
+    
     background-repeat: repeat; 
 }
 
@@ -130,7 +130,7 @@ div{
     background-size: absolute;
     background-image: url(img/minions.jpg);
     background-position: center center;
-    background-size: auto;
+    
     background-repeat: repeat;
 }
 
