@@ -72,6 +72,7 @@ b{
 
 
 main{
+    background-image: cover;
     background-color: white;
     width: 65%;
     padding: 10px;
@@ -83,6 +84,7 @@ main{
 
 
 div{
+    background-image: cover;
     background-color: white;
     width: 53%;
     padding: 10px;
@@ -98,8 +100,7 @@ div{
 
 
 #imgbuzz {
-	background-image: cover;
-	position: center center; 
+	position: absolute; 
 	left: 2%;
 	top: 21%;
 	}
@@ -108,8 +109,7 @@ div{
 
 
 #minions {
-    background-image: cover;
-    position: center center; 
+    position: absolute; 
     left: 75%;
     top: 75%;
     }
