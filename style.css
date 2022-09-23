@@ -99,7 +99,7 @@ div{
 
 #imgbuzz {
 	background-image: cover;
-	position: absolute; 
+	position: center center; 
 	left: 2%;
 	top: 21%;
 	}
@@ -109,7 +109,7 @@ div{
 
 #minions {
     background-image: cover;
-    position: absolute; 
+    position: center center; 
     left: 75%;
     top: 75%;
     }
