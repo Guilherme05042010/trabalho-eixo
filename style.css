@@ -121,9 +121,7 @@ div{
     background-image: url(img/toystory.jpg);
     background-position: center center;
     background-size: auto;
-    background-repeat: repeat;
-    background-attachment: local;
-    
+    background-repeat: repeat; 
 }
 
 
@@ -134,7 +132,6 @@ div{
     background-position: center center;
     background-size: auto;
     background-repeat: repeat;
-    background-attachment: local;
 }
 
 
