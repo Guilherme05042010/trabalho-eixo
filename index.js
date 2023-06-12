@@ -257,3 +257,79 @@ function LeiaMais14(){
         
     }
 }
+
+
+
+function LeiaMais15(){
+    var pontos15=document.getElementById("pontos15")
+    var maisTexto15=document.getElementById("mais15")
+    var btnLeiaMais15=document.getElementById("btnLeiaMais15")
+
+    if(pontos15.style.display === "none"){
+        pontos15.style.display="inline";
+        maisTexto15.style.display="none";
+        btnLeiaMais15.innerHTML="▼"
+    }else{
+        pontos15.style.display="none";
+        maisTexto15.style.display="inline";
+        btnLeiaMais15.innerHTML="▲"
+        
+    }
+}
+
+
+
+function LeiaMais16(){
+    var pontos16=document.getElementById("pontos16")
+    var maisTexto16=document.getElementById("mais16")
+    var btnLeiaMais16=document.getElementById("btnLeiaMais16")
+
+    if(pontos16.style.display === "none"){
+        pontos16.style.display="inline";
+        maisTexto16.style.display="none";
+        btnLeiaMais16.innerHTML="▼"
+    }else{
+        pontos16.style.display="none";
+        maisTexto16.style.display="inline";
+        btnLeiaMais16.innerHTML="▲"
+        
+    }
+}
+
+
+
+function LeiaMais17(){
+    var pontos17=document.getElementById("pontos17")
+    var maisTexto17=document.getElementById("mais17")
+    var btnLeiaMais17=document.getElementById("btnLeiaMais17")
+
+    if(pontos17.style.display === "none"){
+        pontos17.style.display="inline";
+        maisTexto17.style.display="none";
+        btnLeiaMais17.innerHTML="▼"
+    }else{
+        pontos17.style.display="none";
+        maisTexto17.style.display="inline";
+        btnLeiaMais17.innerHTML="▲"
+        
+    }
+}
+
+
+
+function LeiaMais18(){
+    var pontos18=document.getElementById("pontos18")
+    var maisTexto18=document.getElementById("mais18")
+    var btnLeiaMais18=document.getElementById("btnLeiaMais18")
+
+    if(pontos18.style.display === "none"){
+        pontos18.style.display="inline";
+        maisTexto18.style.display="none";
+        btnLeiaMais18.innerHTML="▼"
+    }else{
+        pontos18.style.display="none";
+        maisTexto18.style.display="inline";
+        btnLeiaMais18.innerHTML="▲"
+        
+    }
+}
