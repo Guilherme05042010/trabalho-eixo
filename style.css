@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/layout.jpg);
+    background-image: url(img/layout.png);
     background-color: black;
     background-repeat: repeat;
     background-size: cover;
@@ -45,7 +45,10 @@ main{
 
 
 #mais14{display: none}
-
+#mais15{display: none}
+#mais16{display: none}
+#mais17{display: none}
+#mais18{display: none}
 
 
 
@@ -62,8 +65,8 @@ button{
     
 }
 
-b{
-    font-family: Arial, Helvetica, sans-serif;
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 15px;
     text-align: center;
 }
@@ -98,7 +101,7 @@ div{
 
 
 
-#imgbuzz {
+#imagem1{
 	position: absolute; 
 	left: 2%;
 	top: 21%;
@@ -107,7 +110,7 @@ div{
 
 
 
-#minions {
+#imagem2 {
     position: absolute; 
     left: 75%;
     top: 75%;
@@ -116,20 +119,30 @@ div{
 
 
 
-#mad{
-    background-size: absolute;
-    background-image: url(img/toystory.jpg);
-    background-position: absolute;
+#imagem3{
+    background-size: cover;
+    background-image: url(img/img2.png);
+    background-position: cover;
     
     background-repeat: no-repeat; 
 }
 
 
 
-#i{
-    background-size: absolute;
-    background-image: url(img/minions.jpg);
-    background-position: absolute;
+#imagem4{
+    background-size: cover;
+    background-image: url(img/img1.jpg);
+    background-position: cover;
+    
+    background-repeat: no-repeat;
+}
+
+
+
+#imagem5{
+    background-size: cover;
+    background-image: url(img/img4.png);
+    background-position: cover;
     
     background-repeat: no-repeat;
 }
@@ -138,22 +151,11 @@ div{
 
 
 
-#logo{
-   
-
-    position: absolute; 
-    left: 0%;
-    top: 0%;
-}
-
-
-
-
 #SESI{
    
 
     position: absolute; 
-    left: 74%;
+    left: 83%;
     top: 2%;
 }
 
@@ -161,57 +163,6 @@ div{
 
 
 
-#img1{
-    text-align: center;
-    
-    background-color: white;
-    width: 53%;
-    height: 70%;
-    padding: 10px;
-    margin: auto;
-    border: 1px solid black;
-    border-radius: 15px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-
-}
-
-
-
-#img2{
-    
-    
-    background-color: white;
-    width: 53%;
-    height: 70%;
-    padding: 10px;
-    margin: auto;
-    border: 1px solid black;
-    border-radius: 15px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-
-}
-
-
-
-#img4{
-    
-    
-    background-color: white;
-    width: 53%;
-    height: 70%;
-    padding: 10px;
-    margin: auto;
-    border: 1px solid black;
-    border-radius: 15px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-
-}
 
 
 
